@@ -1,1 +1,1 @@
-# Serial-Arm-Control-in-Real-Time-
+The primary goal of this project is to control a two degrees of freedom serial arm mechanism using MATLAB Simulink and Arduino hardware. This involves creating a block diagram in Simulink, deploying it to an Arduino board, and adjusting PID parameters in real-time using OptiTrack cameras to observe the end effector's motion. 
